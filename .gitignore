@@ -1,0 +1,14 @@
+vendor*
+node_modules*
+
+# Cloud9 Ignore
+.c9
+.git
+
+# JetBrains ignore
+.idea
+
+.env
+.editorconfig
+
+/public/front*
